@@ -14,9 +14,3 @@
 13.     Escribir notasEstudiantes[indice]
 14. Fin_Para 
 15. Fin
-
-
-
-
-
-
